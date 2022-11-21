@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:gdz2351?theme=rule34">
+   <img align="right" src="https://count.getloli.com/get/@:gdz2351?theme=rule34">
 <img src="https://github-readme-stats.vercel.app/api?username=gdz2351&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
 
 ## 个人练习生
@@ -17,12 +17,12 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### 开源项目
-
+暂无
 
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=gdz2351&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdz2351&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gdz2351&layout=compact&langs_count=6)
+
 
 
