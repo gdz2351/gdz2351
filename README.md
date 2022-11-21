@@ -9,7 +9,6 @@
 ### **社交主页：**
 
 
-### **技术栈:**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -21,5 +20,7 @@
 
 
 ### Github 活跃度
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
